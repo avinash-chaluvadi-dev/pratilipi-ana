@@ -1,0 +1,9 @@
+<svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M0 20.222V0l1.454.932 14.54 9.18-14.54 9.178L0 20.222zm1.9-3.409 10.593-6.702L1.899 3.41v13.404z" id="pazlrsyx9a"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <ellipse stroke="#1E62D8" stroke-width="1.5" fill="#FFF" cx="19.782" cy="19.801" rx="19.032" ry="19.051"/>
+        <use fill="#195DD3" xlink:href="#pazlrsyx9a" transform="translate(14.31 10.111)"/>
+    </g>
+</svg>

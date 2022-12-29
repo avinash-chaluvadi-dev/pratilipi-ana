@@ -1,0 +1,6 @@
+[flake8]
+ignore = E203, E266, E402, E501, W503, F403, E265
+max-line-length = 119
+max-complexity = 18
+select = B,C,E,F,W,T4,B9
+enable-extensions = T001, T002, T003, T004
